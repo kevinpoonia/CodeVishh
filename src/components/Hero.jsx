@@ -55,7 +55,7 @@ const Hero = () => {
           </div>
 
           <div className="absolute font-montserrat flex items-center gap-2 top-4 right-6 bg-white border border-gray-200 shadow-md rounded-md px-6 py-3">
-            <p className="text-2xl md:text-3xl font-poppins font-bold text-black">+5</p>
+            <p className="text-2xl md:text-3xl font-poppins font-bold text-black">2+</p>
             <div className="flex flex-col text-xs font-bold leading-tight">
               <span className="text-gray-700">Years</span>
               <span className="text-blue-700">Experience</span>
