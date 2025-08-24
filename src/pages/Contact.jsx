@@ -38,10 +38,10 @@ const Contact = () => {
             Contact Information
           </h3>
           <ul className="space-y-6 text-gray-700">
-            <li className="flex items-center space-x-4">
+{/*             <li className="flex items-center space-x-4">
               <FaMapMarkerAlt className="text-[#003366] text-xl" />
               <span>123 Innovation Street, Lagos, Nigeria</span>
-            </li>
+            </li> */}
             <li className="flex items-center space-x-4">
               <FaPhoneAlt className="text-[#003366] text-xl" />
               <span>+91 8683060542</span>
