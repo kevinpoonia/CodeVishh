@@ -42,7 +42,7 @@ const Footer = () => {
             <li className="flex items-center justify-center md:justify-start gap-2"><FiSmartphone /> <a href="tel:+918683060542">+91 8683060542</a></li>
             {/* <li className="flex items-center justify-center md:justify-start gap-2"><FiPhoneCall /> <a href="tel:0355688547">03 5568 8547</a></li> */}
             <li className="flex items-center justify-center md:justify-start gap-2"><FiMail /><a href="mailto:codevishh@gmail.com">codevishh@gmail.com</a></li>
-            <li className="flex items-center justify-center md:justify-start gap-2"><FiGlobe /> <a href="https://www.codevishh.netlify.app" target="_blank" rel="noopener noreferrer">www.codevishh.netlify.app</a></li>
+            <li className="flex items-center justify-center md:justify-start gap-2"><FiGlobe /> <a href="https://www.codevish.vercel.app" target="_blank" rel="noopener noreferrer">www.codevish.vercel.app</a></li>
           </ul>
         </div>
 
